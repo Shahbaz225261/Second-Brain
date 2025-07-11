@@ -19,13 +19,6 @@ A full-stack web application to store, tag, and organize important online conten
 - 🧠 **Custom Hooks**: Uses `useContent`, `useEffect`, and `useState` for dynamic UI updates.
 - 🛠️ **Schema Design**: Modular Mongoose models for Users, Content, Tags, and Share Links.
 
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/your-username/second-brain.git
-cd second-brain
-
 ## 🔍 App Preview
 
 ### 🧠 Dashboard
@@ -36,4 +29,12 @@ cd second-brain
 
 ### 📝 Signup
 ![Signup](frontend/Second-Brain-F/assets/signup.png)
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/second-brain.git
+cd second-brain
+
 
