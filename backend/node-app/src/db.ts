@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 mongoose.connect(
-  "mongodb+srv://admin:ShahbazRoxx%40123@cluster0.cwvzgop.mongodb.net/brainlyDB"
+  ""
 );
 
 const UserSchema = new mongoose.Schema({
